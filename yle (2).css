@@ -1,6 +1,6 @@
 body {
    
-background-image: url(https://preview.redd.it/5br86efyhc951.png?width=1080&crop=smart&auto=webp&s=c16de63a9ea625ecbdc4270174b6ed31324eee03); 
+background-color: black; 
 background-size: 90%;
 
 }
@@ -9,29 +9,9 @@ background-size: 90%;
         color: white;
 }
 
-.carousel {
-  width: 100%;
-  overflow: hidden;
-  position: relative;
+.rodeo {
+ display: flex;
+  top: -15px;
+ height: 30%;
 }
 
-.slide {
-  width: 100%;
-  display: none;
-}
-
-.slide img {
-  width: 100%;
-  height: auto;
-}
-
-/* Configuração do carrossel */
-.slide:first-child {
-  display: block;}
-
-  .traviss {
-    text-align: center;
-  }
-  .biografia {
-    font-family: sans-serif;
-  }
