@@ -1,0 +1,17 @@
+body {
+   
+background-color: black; 
+background-size: 90%;
+
+}
+
+ h1, h2, h3, h4     {
+        color: white;
+}
+
+.rodeo {
+ display: flex;
+  top: -15px;
+ height: 30%;
+}
+
